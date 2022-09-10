@@ -16,9 +16,11 @@ HTML, CSS, JS, Git, VS Code - beginner.
   }
   return (a)
 }`
-
-Опыт работы. Junior Dev может перечислить учебные проекты с указанием использованных навыков и ссылками на исходный код.
-Образование (включая пройденные курсы и тренинги)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+## Work experience
+Two websites have been created as pet projects: 1. a website for a candy store - https://yanahaury.github.io/dobracukernya/ and 2. an educational website for cat owners.
+## Education
+9 grades of secondary school, self education in IT
+## English
+B2 (Upper-Intermediate)
 
 
