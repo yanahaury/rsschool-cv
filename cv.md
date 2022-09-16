@@ -2,10 +2,10 @@
 ## Name
 Yana Gavrilchenko
 ## Contacts
-yanahaury@gmail.com 
-kanbed688#7655
+* Email: yanahaury@gmail.com 
+* Discord: kanbed688#7655
 ## About me
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
+I am open to new knowledge and experience. I like the frontend because it's varied and there's room for creativity. My goal is to get an interesting job that will help me develop my professional skills every day.
 ## Skills
 HTML, CSS, JS, Git, VS Code - beginner.
 ## Code examples
