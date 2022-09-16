@@ -1,6 +1,7 @@
 # My CV
 ## Name
-Yana Gavrilchenko
+**Yana Gavrilchenko**
+
 ![](https://raw.githubusercontent.com/yanahaury/rsschool-cv/gh-pages/Frame%2049.jpg)
 ## Contacts
 * **Email**: yanahaury@gmail.com 
